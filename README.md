@@ -1,6 +1,6 @@
 # Hi, I am V. Druvansh
 # About Me
-## Currently pursuing B-Tech in computer science Engineering in M.G.I.T I have interest in cyber security and software engineer 
+## Currently pursuing B-Tech in computer science Engineering in M.G.I.T and a motivated software engineer aspirant
 # Skills
 - C
 - python
