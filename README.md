@@ -1,28 +1,28 @@
 # Hi, I am V. Druvansh
-# About Me
+## About Me
 ## Currently pursuing B-Tech in computer science Engineering in M.G.I.T and a motivated software engineer aspirant
-# Skills
+## Skills
 - C
 - python
 - Java
 - sql
 - DSA
-# INTEREST
+## INTEREST
 - solving leetcode problems
 - solving rubik cube
 - playing logical games
-# Hobbies
+## Hobbies
 - chess
 - cricket
 - BasketBall
-# projects
+## projects
 - AGROKISAN: an app built for farmers
 - RTMNIPCS: website for real time metro
 - README FILE
-# ACHEIVEMENT
+## ACHEIVEMENT
  - scored top 3 in National Hackathon
  - National olympiad topper
-# Linkedin 
+## Linkedin 
 - VANNEBOINA DRUVANSH
-# GITHUB
+## GITHUB
 - Druvansh268
